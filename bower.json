@@ -1,0 +1,26 @@
+{
+  "name": "next-selector-query-all",
+  "description": "Selector by querySelectorAll",
+  "main": "dist/next-selector-query-all.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-selector-query-all",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
